@@ -1,4 +1,4 @@
-function calcularIMC(peso, altura) {
+function calcularIMC(peso, altura) 
     
     let imc = peso / (altura * altura);
 
